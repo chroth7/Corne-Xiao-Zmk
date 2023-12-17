@@ -1,0 +1,13 @@
+file_format: "1"
+id: chipper
+name: Chipper
+type: shield
+url: https://github.com/Mikilio/Xiao-Corne
+requires: [seeduino_xiao_ble]
+exposes: []
+features:
+  - keys
+  - display
+siblings:
+  - chipper_left
+  - chipper_right
