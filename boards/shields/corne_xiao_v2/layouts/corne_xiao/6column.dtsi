@@ -1,4 +1,4 @@
-#include "layouts/corne_xiao/position_map.dtsi"
+#include "position_map.dtsi"
 #include <physical_layouts.dtsi>
 
 / {
