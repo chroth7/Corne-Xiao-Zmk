@@ -32,8 +32,8 @@
             , <&key_physical_attrs 100 100  200  200       0     0     0> // 22
             , <&key_physical_attrs 100 100  300  212       0     0     0> // 23
             , <&key_physical_attrs 100 100  400  224       0     0     0> // 24
-            //, <&key_physical_attrs 100 100  500  174       0     0     0> // 25
-            //, <&key_physical_attrs 100 100  700  174       0     0     0> // 26
+            , <&key_physical_attrs 100 100  500  174       0     0     0> // 25
+            , <&key_physical_attrs 100 100  700  174       0     0     0> // 26
             , <&key_physical_attrs 100 100  800  224       0     0     0> // 27
             , <&key_physical_attrs 100 100  900  212       0     0     0> // 28
             , <&key_physical_attrs 100 100 1000  200       0     0     0> // 29
