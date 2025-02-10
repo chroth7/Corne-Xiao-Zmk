@@ -1,7 +1,7 @@
 #include "corne_xiao_v2.dtsi"
 
 &five_column_transform {
-    col-offset = <6>;
+    col-offset = <5>;
 };
 
 &kscan0 {
