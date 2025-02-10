@@ -15,7 +15,8 @@
 include:
   - board: seeeduino_xiao_ble
     # shield: chipper_left
-    shield: corne_xiao_v2_left
+    shield: corne_xiao_v2_left rgbled_adapter
+    snippet: studio-rpc-usb-uart
   - board: seeeduino_xiao_ble
     # shield: chipper_right
-    shield: corne_xiao_v2_right
+    shield: corne_xiao_v2_right rgbled_adapter
